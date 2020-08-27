@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: PC Gearoid
-tagline: Test
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: Best Place To Decide What To Buy
+featuredImage: /assets/pcgear1.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Best Place To Decide What To Buy
+The Best Place Where You can Decide Which Components you can buy for you PC
