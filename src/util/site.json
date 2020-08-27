@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "PC Gearoid",
+    "titleTemplate": "%s",
+    "description": "Best Place To know What PC compotents to Buy",
+    "siteUrl": "https://foundation.stackrole.com",
+    "image": "/assets/stackrole.png",
+    "twitterUsername": ""
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
