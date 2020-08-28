@@ -117,7 +117,7 @@ collections:
               - widget: image
                 name: image
                 label: image
-                default: '/assets/stackrole.png'
+                default: '/assets/pcgearoid logo.png'
               - widget: string
                 name: twitterUsername
                 label: Twitter
