@@ -49,6 +49,11 @@ collections:
   - label: "Pages"
     name: "pages"
     create: true # Allow users to create new documents in this collection
+    fields:
+        - {label: "Template", name: "template", widget: "hidden", default: "contact-page" }
+        - {label: "Slug", name: "slug", widget: "hidden", default: "/contact" }
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
     files:
       - label: "Home"
         name: "home"
