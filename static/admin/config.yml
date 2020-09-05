@@ -48,7 +48,6 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
   - label: "Pages"
     name: "pages"
-    folder: 'src/content/pages'
     create: true # Allow users to create new documents in this collection
     fields:
         - {label: "Template", name: "template", widget: "hidden", default: "contact-page" }
@@ -59,7 +58,6 @@ collections:
       - label: "Home"
         name: "home"
         file: "src/content/pages/index.md"
-        create: true # Allow users to create new documents in this collection
         fields:
         - {label: "Template", name: "template", widget: "hidden", default: "index-page" }
         - {label: "Slug", name: "slug", widget: "hidden", default: "/" }
