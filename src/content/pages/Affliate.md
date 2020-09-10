@@ -13,9 +13,9 @@ In compliance with the FTC guidelines, please assume the following about links a
 Any/all of the links on Pcgearoid.com are affiliate links for which I receive a small compensation from sales of certain items.
 
 What Are Affiliate Links?
-Purchases are made on external affiliate company websites: when a reader clicks on an affiliate link located on Pcgearoid.com to purchase an item, the reader buys the item from the seller directly (not from Gamingdairy).
+Purchases are made on external affiliate company websites: when a reader clicks on an affiliate link located on Pcgearoid.com to purchase an item, the reader buys the item from the seller directly (not from PC gearoid).
 
-Amazon and/or other companies pay Gamingdairy a small commission or other compensation for helping to bring customers to their website.
+Amazon and/or other companies pay PC gearoid a small commission or other compensation for helping to bring customers to their website.
 
 Prices are exactly the same for readers whether they purchase is through an affiliate link or a non-affiliate link. Clicking an affiliate link and clicking a non-affiliate link does not change the price or anything else for the visitor.
 
@@ -30,7 +30,7 @@ If you click a product affiliate link and buy the product, then I will get a per
 Again, prices are not different if you use these affiliate links. You will not pay more by clicking through to the link. These links are not “pay per click.”
 
 What about sponsored content?
-I do not write sponsored posts. I want to provide authentic, un-biased information. However, if a company would like to publish sponsored content on gamingdairy, I will disclose this clearly in the beginning of the post.
+I do not write sponsored posts. I want to provide authentic, un-biased information. However, if a company would like to publish sponsored content on PC gearoid, I will disclose this clearly in the beginning of the post.
 
 The bottom line is that I only recommend products I use myself or that I would recommend to family and friends.
 Your purchase helps support my research efforts. Thank you very, very much! I appreciate you!
