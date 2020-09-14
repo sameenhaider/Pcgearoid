@@ -14,6 +14,7 @@ const settings = require("./src/util/site.json")
 
 module.exports = {
   siteMetadata: settings.meta,
+  siteUrl: 'https://www.pcgearoid.com',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
