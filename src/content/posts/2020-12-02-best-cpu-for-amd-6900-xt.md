@@ -10,7 +10,7 @@ AMD 6900 XT is the new addition of AMD graphic card that is said to be the game 
 
 <!--StartFragment-->
 
-![AMD Ryzen 5 5600X  style="max-width:620px"](/assets/ryzen-5-5600x.jpg "AMD Ryzen 5 5600X")
+![AMD Ryzen 5 5600X  style="height:50%"](/assets/ryzen-5-5600x.jpg "AMD Ryzen 5 5600X")
 
 ### 1. AMD Ryzen 5 5600X
 
