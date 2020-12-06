@@ -10,7 +10,7 @@ AMD 6900 XT is the new addition of AMD graphic card that is said to be the game 
 
 <!--StartFragment-->
 
-![AMD Ryzen 5 5600X](/assets/ryzen-5-5600x.jpg "AMD Ryzen 5 5600X")
+![AMD Ryzen 5 5600X  style="max-width:620px"](/assets/ryzen-5-5600x.jpg "AMD Ryzen 5 5600X")
 
 ### 1. AMD Ryzen 5 5600X
 
@@ -27,6 +27,8 @@ Best Overall
 AMD Ryzen 5 5600X is the best choice as an overall price based and performance based for the AMD 6900 XT as it has enough power to run the card without any bottleneck. This doesn't mean that there are no other CPUs that can out perform it but it is the best choice in our point of view for the beastly AMD 6900XT. As you can see it has the TDP of 65W meaning it will not consume much electricity even when running at 100% which we don't think will be the case pairing it with the AMD 6900 XT. So probably the overall best CPU for AMD 6900XT is the AMD 6900 XT. It only as 12 Threads and 6 Cores as compared to some CPU which has the double amount of Cores/Threads but this doesn't affect the performance as much as with the AMD 6900XT unless you want to pair multiple AMD 6900xt with it.
 
 
+
+<button  aria-label="Buy now From Amazon" style="background-color: white;color: black;border: 2px solid #4CAF50;left:40%;position:absolute;width:20%;padding:10px;"><a href="https://amzn.to/3baPlNl">Buy From Amazon</a></button><br><br><br>
 
 <!--StartFragment-->
 
